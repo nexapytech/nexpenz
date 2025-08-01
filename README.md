@@ -3,7 +3,7 @@
 **Version 1.0.0**  
 Your simple, fast, and free personal finance tracker for Android
 
-![Nexpenz banner](images/dashboard.png)
+![Nexpenz banner](./images/dashboard.png)
 
 ---
 
